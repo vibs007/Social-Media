@@ -51,4 +51,4 @@ const FriendListWidget = ({ userId }) => {
   );
 };
 
-export default FriendListWidget
+export default FriendListWidget;
